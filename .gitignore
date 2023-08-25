@@ -1,0 +1,7 @@
+celerybeat-schedule.db
+output_docs
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
